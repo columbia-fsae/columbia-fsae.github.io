@@ -17,20 +17,20 @@ text-decoration:underline;
 .toc0
 {
 display: block;
-margin-left: 0pt
+margin-left: 15%
 }
 
 .toc1
 {
 display: block;
-margin-left: 10pt
+margin-left: 30%
 }
 
 
 .toc2
 {
 display: block;
-margin-left: 20pt
+margin-left: 45%
 }
 
 .toc > *:before

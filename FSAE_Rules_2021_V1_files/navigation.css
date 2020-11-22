@@ -2,7 +2,7 @@
 .nav > a, .top_nav > a, .toc > a
 {
 color: #663300;
-font-family: Arial, Helvetica, sans-serif;
+font-family: Calibri, Helvetica, sans-serif;
 font-size: 16px;
 font-weight: bold;
 background-color: white;
@@ -17,27 +17,27 @@ text-decoration:underline;
 .toc0
 {
 display: block;
-margin-left: 15px;
+margin-left: 30%;
 text-align: left;
-line-height:10px;
+line-height:20px;
 
 }
 
 .toc1
 {
 display: block;
-margin-left: 30px;
+margin-left: 40%;
 text-align: left;
-line-height:10px;
+line-height:20px;
 }
 
 
 .toc2
 {
 display: block;
-margin-left: 45px;
+margin-left: 50%;
 text-align: left;
-line-height:10px;
+line-height:20px;
 }
 
 .toc > *:before

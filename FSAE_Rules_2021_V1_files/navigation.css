@@ -18,20 +18,23 @@ text-decoration:underline;
 .toc0
 {
 display: block;
-margin-left: 15px
+margin-left: 15px;
+text-align: center
 }
 
 .toc1
 {
 display: block;
-margin-left: 30px
+margin-left: 30px;
+text-align: center
 }
 
 
 .toc2
 {
 display: block;
-margin-left: 45px
+margin-left: 45px;
+text-align: center
 }
 
 .toc > *:before

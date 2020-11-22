@@ -17,7 +17,7 @@ text-decoration:underline;
 .toc0
 {
 display: block;
-margin-left: 50%;
+margin-left: 40%;
 text-align: left;
 line-height:20px;
 
@@ -26,7 +26,7 @@ line-height:20px;
 .toc1
 {
 display: block;
-margin-left: 53%;
+margin-left: 43%;
 text-align: left;
 line-height:20px;
 }
@@ -35,7 +35,7 @@ line-height:20px;
 .toc2
 {
 display: block;
-margin-left: 56%;
+margin-left: 46%;
 text-align: left;
 line-height:20px;
 }
